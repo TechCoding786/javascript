@@ -1,0 +1,15 @@
+.heading {
+    color: rgb(62, 171, 171);
+    background-color: blueviolet;
+    
+}
+body{
+    background-color: blueviolet;
+}
+.box{
+   height: 100px;
+   width: 100px;
+   border: 1px  solid black;
+   text-align: center;
+   background-color: aquamarine; 
+}
